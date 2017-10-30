@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="22"
+    density="420dpi"
+    format="7"
+    timestamp="27150024459571" >
+
+    <task
+        name="javac"
+        duration="203" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="31" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="/Users/Pankaj/Documents/Android-Learning/instagramP/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+        type="DEX" />
+
+    <build timestamp="17549308099837" >
+        <artifact
+            location="/Users/Pankaj/Documents/Android-Learning/instagramP/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="26443889319356" >
+        <artifact
+            location="/Users/Pankaj/Documents/Android-Learning/instagramP/ParseStarterProject/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Users/Pankaj/Documents/Android-Learning/instagramP/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="27150024459571" >
+        <artifact
+            location="/Users/Pankaj/Documents/Android-Learning/instagramP/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
